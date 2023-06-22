@@ -1,6 +1,6 @@
 # Webflix - server
 
-This is the code for implementation of Server for [Webflix](https://github.com/anuragsahay5/Webflix-frontend) .
+This is the code for implementation of Server for [Webflix-UI](https://github.com/anuragsahay5/Webflix-frontend) .
 
 ## How to use
 
